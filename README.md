@@ -23,7 +23,7 @@ Pré-requisitos: npm/yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devpedroso/Portifolio.git
+git clone https://github.com/devpedroso/rede-social-post.git
 
 # entrar na pasta do projeto front end
 cd rede-social-post
